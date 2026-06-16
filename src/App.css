@@ -1,0 +1,7 @@
+/* Evita limitar o app; deixa o Tailwind controlar layout e espaçamentos */
+#root {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  text-align: initial; /* remove o center global */
+}
