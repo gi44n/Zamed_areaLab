@@ -205,7 +205,7 @@ http://localhost:5173
 
 ## 👨‍💻 Autor
 
-### Caio Gonçalves
+### Gian Lima
 
 Full Stack Developer | AI & Automation
 
