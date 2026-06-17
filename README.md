@@ -1,3 +1,8 @@
+## 🌐 Ecossistema ZaMed
+
+- 🩺 Área Médica → https://github.com/gi44n/zamed_areaMedico
+- 🧪 Área Laboratorial → https://github.com/gi44n/Zamed_areaLab
+
 # 🧪 ZaMed - Área Laboratorial
 
 > Plataforma web para gerenciamento de exames laboratoriais, prescrições médicas e acompanhamento operacional de laboratórios.
